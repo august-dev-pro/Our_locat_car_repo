@@ -1,0 +1,17 @@
+{
+    "name": "hp/mvc_locat_car",
+    "description": "locate car website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "August\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "august-dev-pro",
+            "email": "augustinselete01@gmail.com"
+        }
+    ],
+    "require": {}
+}

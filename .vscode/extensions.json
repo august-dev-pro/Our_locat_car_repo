@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "phproberto.vscode-php-getters-setters",
+        "bmewburn.vscode-intelephense-client",
+        "foxundermoon.shell-format"
+    ]
+}

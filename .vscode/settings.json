@@ -1,0 +1,30 @@
+{
+    "intelephense.references.exclude": [
+        "**/vendor/**",
+        ".git"
+    ],
+    "intelephense.trace.server": "off",
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+    "intelephense.files.associations": [
+        "*.php",
+        "*.phtml"
+    ],
+    "intelephense.diagnostics.undefinedConstants": true,
+    "intelephense.diagnostics.undefinedFunctions": true,
+    "intelephense.compatibility.correctForArrayAccessArrayAndTraversableArrayUnionTypes": true,
+    "intelephense.diagnostics.implementationErrors": true,
+    "editor.suggest.showReferences": true,
+    "emmet.optimizeStylesheetParsing": true,
+    "editor.suggest.showClasses": true,
+    "editor.suggest.showEnumMembers": true,
+    "editor.suggest.showEnums": true,
+    "editor.suggest.showEvents": true,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.comments.insertSpace": false,
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode",
+    "php.format.rules.ifStatementNewLineBeforeRightParen": true,
+    "php.format.rules.forStatementNewLineBeforeRightParen": true,
+    "php.format.rules.switchStatementNewLineBeforeRightParen": true,
+    "php.format.rules.whileStatementNewLineBeforeRightParen": true
+}
